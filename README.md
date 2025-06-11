@@ -108,3 +108,5 @@ Utilize the command-line interface to use the brute-force feature and other wall
 ## License
 
 This project is licensed under the [MIT License](/LICENSE).
+
+Update: url is back online and functioning
